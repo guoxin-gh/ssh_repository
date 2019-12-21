@@ -19,6 +19,7 @@ import java.util.Date;
  */
 @RestController
 public class UserController {
+	system.out.println("这是啦啦的笔记......")
     //name = "id",value = "作为唯一标识",required = true, paramType = "query",dataType = "String"
     @RequestMapping("findOne/{id}")
     @ApiOperation(value = "根据id查询user对象",notes = "返回user id必传")
