@@ -1,0 +1,6 @@
+com\offcn\controller\UserController.class
+com\offcn\service\UserService.class
+com\offcn\ThymeleafCrudApplication.class
+com\offcn\repository\UserRepository.class
+com\offcn\service\impl\UserServiceImpl.class
+com\offcn\pojo\User.class
